@@ -1,7 +1,7 @@
 # Presentación Conceptos de Usabilidad
 
 
-#### El siguiente documento tiene como objetivo presentar conceptos basicos de ux, 
+El siguiente documento tiene como objetivo presentar conceptos basicos de ux, 
 
 
 
