@@ -141,6 +141,7 @@ En el contexto del diseño gráfico una retícula, grilla o rejilla es un instru
 En el contexto del diseño gráfico una retícula, grilla o rejilla es un instrumento para ordenar los elementos gráficos como el texto y  las imágenes.
 
 ![rejilla](img/rejilla_con_divisiones.png)
+
 Imagen de una rejilla 960px con las opciones y tamaños de diseño en columnas
 
 
