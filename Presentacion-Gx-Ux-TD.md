@@ -92,21 +92,61 @@ Destino común: aunque parezca que es el principio más difícil, en realidad es
 
 # Proceso previo al codigo
 
-
-
+![Pasos previos](img/caja_de_pasos.png)
 
 ## Sketch, wireframe,mockup y prototipos.
-
 
 ### ¿Qué es un Sketch?
 
 Primeros pasos sobre papel, el sketch es el dibujo a mano alzada en donde diseñamos la idea base de una web.
 
+Aqui podremos encontrar:
+
+Los elementos más característicos como logos, etc.
+Zona de navegación
+Los sistemas de ayuda para usuarios
+Redes sociales
+Áreas de contenidos y que servicio queremos presentar en el proyecto
+
+
+![Sketch](img/sketch.png)
+
+
+### ¿Qué es un Wireframe?
+
+El siguiente paso, desde el punto de vista del diseño gráfico y arquitectura de información en un proyecto digital, es la creación de los wireframe apoyándonos en el sketch que hemos dibujado.
+
+Los wireframes sirven para múltiples propósitos, ayudando a:
+
+Dar prioridad a los contenidos determinando la cantidad de espacio que se va asignar a un elemento dado y donde se encuentra ese elemento.
+
+Conectar arquitectura de la información del sitio para su diseño visual, mostrando las conexiones entre las páginas.
+
+Clarificar los espacios y formas  para la visualización de determinados tipos de información sobre la interfaz de usuario.
+
+Determinar la funcionalidad prevista en la interfaz, la cantidad de las funciones disponibles, o el efecto de los distintos escenarios en la pantalla.
+
+
+![Wireframe](img/wireframe_1.png)
 
 
 
-![Pasos previso](img/caja_de_pasos.png)
+### Wireframe y rejillas
+
+En el contexto del diseño gráfico una retícula, grilla o rejilla es un instrumento para ordenar los elementos gráficos como el texto y  las imágenes.
+
+![Wireframe](img/wireframe_2.png)
 
 
+En el contexto del diseño gráfico una retícula, grilla o rejilla es un instrumento para ordenar los elementos gráficos como el texto y  las imágenes.
+
+![rejilla](img/rejilla_con_divisiones.png)
+Imagen de una rejilla 960px con las opciones y tamaños de diseño en columnas
+
+
+
+
+
+bloques_web.png
 
 [Uso de Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
