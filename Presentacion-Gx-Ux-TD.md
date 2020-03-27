@@ -10,8 +10,6 @@ El siguiente documento tiene como objetivo presentar conceptos basicos de diseñ
 
 ![area](img/UXUI_FlowDiagram.jpg)
 
-<center>Flujo de área</center>
-
 
 
 ## Principios basicos de Diseño Principios de Gestal
@@ -208,6 +206,18 @@ Un mockup:
 
 
 ### ¿Qué es un prototipo?
+
+Un prototipo es un modelo (representación, demostración o simulación) fácilmente ampliable y modificable de un sistema planificado, una interfaz funcional.
+
+- Sistemas de navegación
+- Paleta de colores aplicada
+- Iconografía
+- Experiencia de usuario
+- Servicios de ayuda, búsqueda, interacción.
+- Otros elementos del proyecto
+
+
+![E-commerce](img/e-commerce.jpg)
 
 
 
