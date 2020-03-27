@@ -142,12 +142,47 @@ En el contexto del diseño gráfico una retícula, grilla o rejilla es un instru
 
 ![rejilla](img/rejilla_con_divisiones.png)
 
-Imagen de una rejilla 960px con las opciones y tamaños de diseño en columnas
+En el diseño de páginas web el uso de la rejilla de 960px con 12 columnas
+
+
+
+### Diseño con cajas
+
+
+Como hemos visto, los wireframes tienen entre otras , la función de estructurar y jerarquizar los contenidos. 
+
+
+![rejilla](img/bloques_web.png)
+
+
+
+Habitualmente vamos a usar  esta estructura básica de cabecera, cuerpo y pie, aunque  muchas veces podemos ser creativos con el diseño, dependiendo de nuestro objetivo y de aquello que estemos diseñando, y mantener  la jerarquía de la información en la mente.
+
+
+![rejilla](img/wireframe_3.png)
+
+
+Otro ejemplo , con  múltiples contenedores  para distintos tipos de contenidos como publicidad, distintos servicios, etc. perfectamente ordenados
+
+![rejilla](img/wireframe_cajas.png)
+
+
+### Jerarquía con tipografía
+
+Utilizando diferentes tamaños de fuente, negritas, y/o subrayados resulta una buena fórmula para diferenciar entre los diferentes niveles de información.
+
+
+![rejilla](img/wireframe_tipografia.png)
 
 
 
 
 
-bloques_web.png
+### Herramientas para Prototipados
+
+[Herramienta de Prototipado](https://www.iebschool.com/blog/herramientas-prototipado-analitica-usabilidad/ "Herramienta de Prototipado")
+
+https://www.iebschool.com/blog/herramientas-prototipado-analitica-usabilidad/
+
 
 [Uso de Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
