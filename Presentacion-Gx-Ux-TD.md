@@ -156,8 +156,53 @@ Destino común: aunque parezca que es el principio más difícil, en realidad es
 ![Destino Común](img/destino-comun.jpg)
 
 
+[Web de referencia](https://binima.com/principios-gestalt-aplicados-ux/ "Web de referencia")
+
+
+
+
+
+## Nuestro proceso de consultor
+
+### El Brief
+
+
+Bajada técnica a través de un brief o documento formal como piorpuesta
+
+[Elaborando un Brief](https://medium.com/@Brauhaus/c%C3%B3mo-elaborar-un-buen-brief-creativo-ca19671d2906 "Elaborando un Brief")
+
+![Brief](img/brief.png)
+
+
+### Benchmark
+
+En marketing es el proceso de comparar procesos y actividades de tu competencia, con el propósito de mejorar y elimiar ciertos patrones.
+
+
+- Plan (Planear): Cómo utilizan los competidores sus estrategias para alcanzar a un grupo objetivo en específico, cuál es el mensaje y el tono de este, tanto en texto como en gráficos, entre otros.
+
+- Reach (Alcanzar): Sondear la efectividad de una empresa para alcanzar el mayor número de personas con efectividad.
+
+- Act (Actuar): Cómo la competencia estimula la participación de sus seguidores en medios sociales.
+
+- Convert (Convertir): Cuales son los medios que utiliza el competidor para conducir a su seguidor hacia convertirlo en cliente. Tiene que ver con comercio electrónico y acciones promocionales.
+
+- Engage (Trascender): Cómo se construyen mecanismos de lealtad para convertir al cliente en un promotor incondicional del producto.
+
+
+
+### Mapa de Empatia
+
+Despues de estudiar a la competencia debemos definir al usurio que consumira de nuestro sitio web o aplicación, para ello debemos empatizar con él y ponernos en sus zapatos para poder identificar patrones y conductas, de está manera podremos tener un resultado cercano a lo que espera el grupo objetivo.
+
+
+![Mapa de Empatia](img/Mapa-de-empatia.jpg)
+
+
 
 # Proceso previo al codigo
+
+Obteniendo la información anterior podemos realizar el paso previo al codigo.
 
 ![Pasos previos](img/caja_de_pasos.png)
 
@@ -317,7 +362,6 @@ Un prototipo es un modelo (representación, demostración o simulación) fácilm
 ### Herramientas para wireframes
 
 [Herramienta para creación de wireframe](https://capturly.com/blog/como-crear-wireframes-como-un-disenador-de-experiencia-web/ "Herramienta para creación de wireframe")
-
 
 
 
