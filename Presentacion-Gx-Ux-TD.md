@@ -171,8 +171,6 @@ Bajada técnica a través de un brief o documento formal como piorpuesta
 
 [Elaborando un Brief](https://medium.com/@Brauhaus/c%C3%B3mo-elaborar-un-buen-brief-creativo-ca19671d2906 "Elaborando un Brief")
 
-![Brief](img/brief.png)
-
 
 ### Benchmark
 
