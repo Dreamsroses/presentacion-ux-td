@@ -14,21 +14,6 @@ El siguiente documento tiene como objetivo presentar conceptos basicos de diseñ
 
 
 
-## Psicologia del color
-
-
-
-
-
-![Psicologia del color](img/psicologia-color.png)
-
-
-
-[Psicologia del Color](https://medium.com/@nubogroup/el-impacto-de-la-psicolog%C3%ADa-del-color-en-tu-marca-e0f9b0131698 "Psicologia del color")
-
-
-
-
 ## Principios basicos de Diseño Principios de Gestal
 
 Gestalt es una palabra alemana que no tiene traducción directa al castellano pero que viene a significar “Forma, Estructura y Totalidad” y hace referencia a una corriente psicológica surgida en Alemania a principios del siglo XX. 
@@ -152,19 +137,19 @@ En el diseño de páginas web el uso de la rejilla de 960px con 12 columnas
 Como hemos visto, los wireframes tienen entre otras , la función de estructurar y jerarquizar los contenidos. 
 
 
-![rejilla](img/bloques_web.png)
+![bloques_web](img/bloques_web.png)
 
 
 
 Habitualmente vamos a usar  esta estructura básica de cabecera, cuerpo y pie, aunque  muchas veces podemos ser creativos con el diseño, dependiendo de nuestro objetivo y de aquello que estemos diseñando, y mantener  la jerarquía de la información en la mente.
 
 
-![rejilla](img/wireframe_3.png)
+![wireframe](img/wireframe_3.png)
 
 
 Otro ejemplo , con  múltiples contenedores  para distintos tipos de contenidos como publicidad, distintos servicios, etc. perfectamente ordenados
 
-![rejilla](img/wireframe_cajas.png)
+![cajas](img/wireframe_cajas.png)
 
 
 ### Jerarquía con tipografía
@@ -172,9 +157,57 @@ Otro ejemplo , con  múltiples contenedores  para distintos tipos de contenidos 
 Utilizando diferentes tamaños de fuente, negritas, y/o subrayados resulta una buena fórmula para diferenciar entre los diferentes niveles de información.
 
 
-![rejilla](img/wireframe_tipografia.png)
+![tipografia](img/wireframe_tipografia.png)
 
 
+
+
+### MockUp
+
+Algunos diseñadores sostienen la opinión de que los MockUp no son necesarios, pero son extremadamente útiles a la hora de explorar las decisiones de diseño visual antes de comenzar con la etapa de desarrollo del código.
+
+Un mockup:
+
+
+- Permite saber qué información existe y donde va.
+- Puede ser utilizado para la implementación del diseño
+- Es más preciso para los desarrolladores
+- Es una herramienta flexible
+- Es más fácil de presentar a los no diseñadores
+- Puede servir como parte de nuestra propuesta de presupuesto
+
+![mockup](img/mockup.png)
+
+
+
+### Tener siempre en cuenta al diseñar
+
+- Demasiados efectos y detalle
+- No usar rejillas y no alinear correctamente los elementos:
+- Si estás realizando una web, no realizar una maqueta para web responsive
+- No usar un esquema de color
+
+
+### Herramientas para seleccionar paleta de colores
+
+[Adobe Color](https://color.adobe.com/es/create/ "Adobe Color")
+
+[paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF "Paletton")
+
+
+
+## Psicologia del color
+
+
+![Psicologia del color](img/psicologia-color.png)
+
+
+
+[Psicologia del Color](https://medium.com/@nubogroup/el-impacto-de-la-psicolog%C3%ADa-del-color-en-tu-marca-e0f9b0131698 "Psicologia del color")
+
+
+
+### ¿Qué es un prototipo?
 
 
 
@@ -191,3 +224,9 @@ Utilizando diferentes tamaños de fuente, negritas, y/o subrayados resulta una b
 
 
 [Uso de Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
+
+
+
+No perder:
+
+https://swapps.com/es/blog/principios-gestalt-en-el-diseno-web/
