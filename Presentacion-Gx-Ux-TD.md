@@ -30,7 +30,7 @@ Ellos, tanto física como conceptualmente, componen nuestra experiencia.
 
 ![area](img/gestalt.jpg)
 
-
+Proximidad - Destino común - Continuidad - Similitud - Cierre - Región común - Simetria
 
 
 Proximidad: los elementos que se sitúan cerca el uno del otro son percibidos como más relacionados que los que sitúan más apartados.
