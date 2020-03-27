@@ -363,5 +363,23 @@ Un prototipo es un modelo (representación, demostración o simulación) fácilm
 
 
 
+
+
+### Website Style Guide Resources
+
+[Website Style Guide Resources](http://styleguides.io/tools "Website Style Guide Resources")
+
+
+### Atomic Design
+
+
+![E-commerce](img/atomic-design.mp4)
+
+
+[Atomic Design](https://patternlab.io/assets/atomic-design.mp4 "Atomic Design")
+
+
+
+
 [Uso de Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
 
