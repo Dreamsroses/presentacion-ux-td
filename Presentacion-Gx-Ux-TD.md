@@ -37,6 +37,10 @@ Proximidad: los elementos que se sitúan cerca el uno del otro son percibidos co
 
 Región común: los elementos agrupados en una región común son percibidos.
 
+
+![Region Comun](img/0_region-comun.png)
+
+
 Similaridad: elementos que tienen características iguales visualmente son percibidos como más relacionados que aquellos que no.
 
 
