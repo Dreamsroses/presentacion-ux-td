@@ -15,8 +15,6 @@ El siguiente documento tiene como objetivo presentar conceptos basicos de diseñ
 ## Principios basicos de Diseño Principios de Gestal
 
 
-
-
 Gestalt es una palabra alemana que no tiene traducción directa al castellano pero que viene a significar “Forma, Estructura y Totalidad” y hace referencia a una corriente psicológica surgida en Alemania a principios del siglo XX. 
 
 Por ello, cuando hablamos de los principios de Gestalt también estamos hablando de la psicología de las formas y su estructura.
@@ -27,13 +25,14 @@ La frase “El todo es mayor que la suma de las partes” se utiliza a menudo pa
 Ellos, tanto física como conceptualmente, componen nuestra experiencia. 
 
 
-
 ![area](img/gestalt.jpg)
 
 Proximidad - Destino común - Continuidad - Similitud - Cierre - Región común - Simetria
 
 
 Proximidad: los elementos que se sitúan cerca el uno del otro son percibidos como más relacionados que los que sitúan más apartados.
+
+![area](img/proximidad.png)
 
 
 Región común: los elementos agrupados en una región común son percibidos.
@@ -54,11 +53,21 @@ Continuidad: los elementos que se perciben como pertenecientes a una línea (sea
 Destino común: los elementos que siguen una misma dirección son percibidos como más relacionados que aquellos que se mueven en otras direcciones o no se mueven.
 
 
+
+[Web de Referencia](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965 "Web de referencia")
+
+
+
+
+
 ## Principios Gestalt aplicados al diseño de interfaces
 
 
 
 Proximidad: como hemos dicho los usuarios tenderán a agrupar los elementos más cercanos, por tanto tendremos que dividir la superficie visible en elementos similares o dividirlos en regiones. Por ello el espacio en blanco juega un papel fundamental a la hora de diseñar interfaces y debes mantener una coherencia para lograr una jerarquía visual
+
+
+
 
 
 Región común: en este caso podemos usar la forma o el color para dividir el interfaz en regiones, las cuales usaremos para construir las diferentes parte de un interfaz: menú de navegación, barra de herramientas, contenido, barras laterales, etc…
@@ -243,8 +252,3 @@ Un prototipo es un modelo (representación, demostración o simulación) fácilm
 
 [Uso de Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
 
-
-
-No perder:
-
-https://swapps.com/es/blog/principios-gestalt-en-el-diseno-web/
