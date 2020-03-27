@@ -14,6 +14,9 @@ El siguiente documento tiene como objetivo presentar conceptos basicos de diseñ
 
 ## Principios basicos de Diseño Principios de Gestal
 
+
+
+
 Gestalt es una palabra alemana que no tiene traducción directa al castellano pero que viene a significar “Forma, Estructura y Totalidad” y hace referencia a una corriente psicológica surgida en Alemania a principios del siglo XX. 
 
 Por ello, cuando hablamos de los principios de Gestalt también estamos hablando de la psicología de las formas y su estructura.
@@ -22,6 +25,11 @@ La mente configura, a través de ciertas leyes, los elementos que llegan a ella 
 
 La frase “El todo es mayor que la suma de las partes” se utiliza a menudo para explicar la teoría de la Gestalt. Empleamos estos principios en la mayoría de los aspectos de nuestra vida cotidiana. 
 Ellos, tanto física como conceptualmente, componen nuestra experiencia. 
+
+
+
+![area](img/gestalt.jpg)
+
 
 
 
