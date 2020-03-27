@@ -29,7 +29,7 @@ El siguiente documento tiene como objetivo presentar conceptos basicos de diseñ
 
 
 
-## Principios basicos de Diseño - Principios de Gestal
+## Principios basicos de Diseño Principios de Gestal
 
 Gestalt es una palabra alemana que no tiene traducción directa al castellano pero que viene a significar “Forma, Estructura y Totalidad” y hace referencia a una corriente psicológica surgida en Alemania a principios del siglo XX. 
 
@@ -87,6 +87,25 @@ Continuidad: el ejemplo de continuidad más evidente son los elementos de un men
 
 Destino común: aunque parezca que es el principio más difícil, en realidad es muy usual en el diseño de interfaces en elementos como los menús de navegación desplegables y navegables, las migas de pan o los pasos de un proceso.
 
+
+
+
+# Proceso previo al codigo
+
+
+
+
+## Sketch, wireframe,mockup y prototipos.
+
+
+### ¿Qué es un Sketch?
+
+Primeros pasos sobre papel, el sketch es el dibujo a mano alzada en donde diseñamos la idea base de una web.
+
+
+
+
+![Pasos previso](img/caja_de_pasos.png)
 
 
 
