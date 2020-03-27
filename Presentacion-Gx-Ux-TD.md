@@ -49,18 +49,25 @@ Similaridad: elementos que tienen características iguales visualmente son perci
 Cierre: un grupo de elementos son a menudo percibidos como una sola forma o figura. Esto ocurre incluso cuando está incompleta o partes de ella no están comprendidas en ella.
 
 
-![Similaridad](img/0_cierre.png)
+![cierre](img/0_cierre.png)
 
 
 
 Simetría: elementos simétricos tienden a ser percibidos como pertenecientes a lo mismo, no importa su distancia, dándonos sensación de orden y solidez.
 
+![simetria](img/0_simetría.png)
+
+
 
 Continuidad: los elementos que se perciben como pertenecientes a una línea (sea recta o curva).
 
+![continuidad](img/0_continuidad.png)
 
 
 Destino común: los elementos que siguen una misma dirección son percibidos como más relacionados que aquellos que se mueven en otras direcciones o no se mueven.
+
+
+![Destino comun](img/0_destino.png)
 
 
 
@@ -229,6 +236,10 @@ Un mockup:
 
 
 [Psicologia del Color](https://medium.com/@nubogroup/el-impacto-de-la-psicolog%C3%ADa-del-color-en-tu-marca-e0f9b0131698 "Psicologia del color")
+
+
+
+[Generadores de Colores](https://es.shopify.com/blog/62615749-14-generadores-de-paletas-de-color-online-para-diseno-web "Generadores de Colores")
 
 
 
