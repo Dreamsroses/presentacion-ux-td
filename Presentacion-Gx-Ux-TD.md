@@ -4,7 +4,7 @@
 El siguiente documento tiene como objetivo presentar conceptos basicos de diseño y usabilidad con el fin de que el estudiante de Front-end adquiera estos skill.
 
 
-#### Primero, nuestro campo de desarrollo:
+## Primero, nuestro campo de desarrollo:
 
 
 
@@ -14,7 +14,7 @@ El siguiente documento tiene como objetivo presentar conceptos basicos de diseñ
 
 
 
-#### Psicologia del color
+## Psicologia del color
 
 
 
@@ -26,7 +26,7 @@ El siguiente documento tiene como objetivo presentar conceptos basicos de diseñ
 
 
 
-#### Principios basicos de Diseño - Principios de Gestal
+## Principios basicos de Diseño - Principios de Gestal
 
 Gestalt es una palabra alemana que no tiene traducción directa al castellano pero que viene a significar “Forma, Estructura y Totalidad” y hace referencia a una corriente psicológica surgida en Alemania a principios del siglo XX. 
 
@@ -60,7 +60,7 @@ Continuidad: los elementos que se perciben como pertenecientes a una línea (sea
 Destino común: los elementos que siguen una misma dirección son percibidos como más relacionados que aquellos que se mueven en otras direcciones o no se mueven.
 
 
-#### Principios Gestalt aplicados al diseño de interfaces
+## Principios Gestalt aplicados al diseño de interfaces
 
 
 
