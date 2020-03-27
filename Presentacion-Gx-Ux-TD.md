@@ -32,9 +32,12 @@ Proximidad - Destino común - Continuidad - Similitud - Cierre - Región común 
 
 Proximidad: los elementos que se sitúan cerca el uno del otro son percibidos como más relacionados que los que sitúan más apartados.
 
-![Proximidad](img/0_proximidad.png){width=50%}
+![Proximidad](img/0_proximidad.png)
 
-![Proximidad](img/0_proximidad.jpeg){width=50%}
+
+## Ejemplo en web de Proximidad
+
+![Proximidad](img/0_proximidad.jpeg)
 
 
 Región común: los elementos agrupados en una región común son percibidos.
@@ -43,9 +46,19 @@ Región común: los elementos agrupados en una región común son percibidos.
 ![Region Comun](img/0_region-comun.png)
 
 
+## Ejemplo en web de Region Comun
+
+![Region Comun](img/0_region-comun.jpeg)
+
 Similaridad: elementos que tienen características iguales visualmente son percibidos como más relacionados que aquellos que no.
 
 ![Similaridad](img/0_similaridad.png)
+
+
+## Ejemplo en web de Similaridad
+
+![Similaridad](img/0_similaridad.jpeg)
+
 
 
 Cierre: un grupo de elementos son a menudo percibidos como una sola forma o figura. Esto ocurre incluso cuando está incompleta o partes de ella no están comprendidas en ella.
@@ -54,16 +67,28 @@ Cierre: un grupo de elementos son a menudo percibidos como una sola forma o figu
 ![cierre](img/0_cierre.png)
 
 
+## Ejemplo en web
+
+![cierre](img/01_cierre.png)
+
 
 Simetría: elementos simétricos tienden a ser percibidos como pertenecientes a lo mismo, no importa su distancia, dándonos sensación de orden y solidez.
 
 ![simetria](img/0_simetría.png)
 
+## Ejemplo en web
+
+![simetria](img/0_simetría.jpeg)
 
 
 Continuidad: los elementos que se perciben como pertenecientes a una línea (sea recta o curva).
 
 ![continuidad](img/0_continuidad.png)
+
+## Ejemplo en web
+
+
+![continuidad](img/0_continuidad.jpeg)
 
 
 Destino común: los elementos que siguen una misma dirección son percibidos como más relacionados que aquellos que se mueven en otras direcciones o no se mueven.
@@ -71,9 +96,19 @@ Destino común: los elementos que siguen una misma dirección son percibidos com
 
 ![Destino comun](img/0_destino.png)
 
+## Ejemplo en web
+
+![Destino comun](img/0_destino.jpeg)
 
 
 [Web de Referencia](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965 "Web de referencia")
+
+
+Otras web de referencia
+
+[Otras referencias](https://swapps.com/es/blog/principios-gestalt-en-el-diseno-web/ "Otras referencias")
+
+
 
 
 
