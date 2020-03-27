@@ -1,4 +1,4 @@
-# Presentación Conceptos de Usabilidad - TD GX
+# Presentación Conceptos de Ux / Ui - TD GX
 
 
 El siguiente documento tiene como objetivo presentar conceptos basicos de diseño y usabilidad con el fin de que el estudiante de Front-end adquiera estos skill.
