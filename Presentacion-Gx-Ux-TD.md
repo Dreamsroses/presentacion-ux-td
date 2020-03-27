@@ -43,8 +43,14 @@ Región común: los elementos agrupados en una región común son percibidos.
 
 Similaridad: elementos que tienen características iguales visualmente son percibidos como más relacionados que aquellos que no.
 
+![Similaridad](img/0_similaridad.png)
+
 
 Cierre: un grupo de elementos son a menudo percibidos como una sola forma o figura. Esto ocurre incluso cuando está incompleta o partes de ella no están comprendidas en ella.
+
+
+![Similaridad](img/0_cierre.png)
+
 
 
 Simetría: elementos simétricos tienden a ser percibidos como pertenecientes a lo mismo, no importa su distancia, dándonos sensación de orden y solidez.
