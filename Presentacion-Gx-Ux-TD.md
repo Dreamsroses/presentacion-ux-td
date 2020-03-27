@@ -373,10 +373,14 @@ Un prototipo es un modelo (representación, demostración o simulación) fácilm
 ### Atomic Design
 
 
-![E-commerce](img/atomic-design.mp4)
-
-
 [Atomic Design](https://patternlab.io/assets/atomic-design.mp4 "Atomic Design")
+
+
+### Curso de Introducción al Diseño UX
+
+
+[Intro al diseño ux](https://www.udemy.com/course/introduccion-al-diseno-ux/ "Intro al diseño ux")
+
 
 
 
