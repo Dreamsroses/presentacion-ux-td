@@ -182,7 +182,12 @@ Utilizando diferentes tamaños de fuente, negritas, y/o subrayados resulta una b
 
 [Herramienta de Prototipado](https://www.iebschool.com/blog/herramientas-prototipado-analitica-usabilidad/ "Herramienta de Prototipado")
 
-https://www.iebschool.com/blog/herramientas-prototipado-analitica-usabilidad/
+
+### Herramientas para wireframes
+
+[Herramienta para creación de wireframe](https://capturly.com/blog/como-crear-wireframes-como-un-disenador-de-experiencia-web/ "Herramienta para creación de wireframe")
+
+
 
 
 [Uso de Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
