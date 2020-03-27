@@ -32,7 +32,8 @@ Proximidad - Destino común - Continuidad - Similitud - Cierre - Región común 
 
 Proximidad: los elementos que se sitúan cerca el uno del otro son percibidos como más relacionados que los que sitúan más apartados.
 
-![Proximidad](img/0_proximidad.png)
+![Proximidad](img/0_proximidad.png){ width=50% }
+![Proximidad](img/0_proximidad.jpeg){ width=50% }
 
 
 Región común: los elementos agrupados en una región común son percibidos.
